@@ -28,6 +28,7 @@ export default function Home() {
           property="og:image"
           content="https://images.prothomalo.com/prothomalo-bangla%2F2022-12%2Ff15d1dae-0e2d-4d10-96f4-b70fc636a557%2FWHATSAPP_IMAGE_2022_12_25_AT_113130_PM_1113306.gif?rect=0%2C170%2C2400%2C1260&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;overlay=https%3A%2F%2Fimages.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F18c58c05-9e66-46f3-8946-4437460f8f90%2FBanner_7814X143.jpg&amp;overlay_position=bottom&amp;overlay_width_pct=1"
         />
+        <meta property="og:url" content="https://waltondigitech.com/products/music/speaker/portable-bluetooth-speaker/chorus-bluetooth-speaker-ps16" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
       </Head>
